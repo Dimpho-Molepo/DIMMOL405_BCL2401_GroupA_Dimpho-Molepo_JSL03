@@ -11,11 +11,11 @@ In this project we were tasked to make a video presentation distiguishing the tw
 
 ## How to complete the project
 
-### Step 1: Clone the Repository
-### Step 2: Analyze the Examples
-### Step 3: Record the Presentation
-### Step 4: Insert Loom Links 
-### Step 5: Submit the Project
+**Step 1: Clone the Repository**
+**Step 2: Analyze the Examples**
+**Step 3: Record the Presentation**
+**Step 4: Insert Loom Links** 
+**Step 5: Submit the Project**
 
 ## Presentation Talking Points
 
